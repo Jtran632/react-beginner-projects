@@ -1,3 +1,5 @@
+First 3 projects from https://www.freecodecamp.org/news/react-projects-for-beginners-easy-ideas-with-code/ completed with next.js 13 and tailwind used as a reference for mentees 
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
